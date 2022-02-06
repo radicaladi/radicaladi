@@ -16,3 +16,6 @@ I'm Adrian! A Veteran, a Business Student and an all-around enthusiast for self-
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=radicaladi&theme=dark&layout=compact&repo=convoychat&hide=stars,prs&custom_title=Adrian's GitHub Stats" />
 </a>
 </p>
+<p align="center">
+  <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=radicaladi&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
+</p>
