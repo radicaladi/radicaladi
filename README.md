@@ -1,6 +1,6 @@
 # How's it going? 👋👨🏽‍💻💬
 
-I'm Adrian! A Veteran, a Business Student and an all-around enthusiast for self-improvement on this road called life. Recently transitioned into Software Development, as an abstract thinker and creative problem-solver, whether front-end or back-end, I look forward to completing the challenge.
+I'm Adrian! A Veteran, Business Student and all-around enthusiast for self-improvement on this road called life. Recently transitioned into Software Development, as an abstract thinker and creative problem-solver, whether front-end or back-end, I look forward to completing the challenge.
 
 🌱&nbsp; I'm learning JS while honing my HTML and CSS skills<br>
 🎓&nbsp; Currently a spirited pupil at [Codeup](https://codeup.com)<br>
@@ -25,5 +25,6 @@ I'm Adrian! A Veteran, a Business Student and an all-around enthusiast for self-
   <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img alt="Bootstrap" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
   <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </p>
