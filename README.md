@@ -9,9 +9,9 @@ I'm Adrian! A Veteran, a Business Student and an all-around enthusiast for self-
 ## Some of my Github stats
 
 <a href="https://github.com/radicaladi">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicaladi&layout=compact&theme=dark&langs_count=6" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicaladi&layout=compact&theme=dark&langs_count=6" />
 </a>
 <a href="https://github.com/radicaladi">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=radicaladi&theme=dark&layout=compact&repo=convoychat&hide=stars,prs&custom_title=Adrian's GitHub Stats" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=radicaladi&theme=dark&layout=compact&repo=convoychat&hide=stars,prs&custom_title=Adrian's GitHub Stats" />
 </a>
 </p>
