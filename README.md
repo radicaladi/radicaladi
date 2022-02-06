@@ -9,13 +9,21 @@ I'm Adrian! A Veteran, a Business Student and an all-around enthusiast for self-
 ## Some of my Github stats
 
 <p align="center">
+  <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=radicaladi&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
+</p>
+<p align="center">
 <a href="https://github.com/radicaladi">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicaladi&layout=compact&theme=dark&langs_count=6" />
 </a>
 <a href="https://github.com/radicaladi">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=radicaladi&theme=dark&layout=compact&repo=convoychat&hide=stars,prs&custom_title=Adrian's GitHub Stats" />
 </a>
-</p>
-<p align="center">
-  <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=radicaladi&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
+</p><br>
+
+## My skills
+<p align="left">
+  <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </p>
