@@ -4,7 +4,7 @@ I'm Adrian! A Veteran, Business Student and all-around enthusiast for self-impro
 
 🌱&nbsp; I'm learning Java while honing my front end skills<br>
 🎓&nbsp; Currently a spirited pupil at [Codeup](https://codeup.com)<br>
-✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: Edward Wong Hau Pepelu Tirvuski IV<br>
+✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: Edward Wong Hau Pepelu Tivruski IV<br>
 
 ## Some of my Github stats
 
