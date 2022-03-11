@@ -22,9 +22,10 @@ I'm Adrian! A Veteran, Business Student and all-around enthusiast for self-impro
 
 ## My skills
 <p align="left">
-  <code><img alt="Git" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+  <code><img alt="Git" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /></code>
   <code><img alt="HTML5" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
   <code><img alt="CSS3" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-  <code><img alt="Bootstrap" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></code>
-  <code><img alt="JavaScript" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+  <code><img alt="Bootstrap" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" /></code>
+  <code><img alt="JavaScript" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /></code>
+  <code><img alt="Java" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /></code>
 </p>
