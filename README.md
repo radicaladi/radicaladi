@@ -1,10 +1,10 @@
-# How's it going? 👋👨🏽‍💻💬
+# How's it going? &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img alt="smiley" width="40em" src="https://i.imgur.com/q2UfNOW.png"/>
 
 I'm Adrian! A Veteran, Business Student and all-around enthusiast for self-improvement on this road called life. Recently transitioned into Software Development, as an abstract thinker and creative problem-solver, whether front-end or back-end, I look forward to completing the challenge.
 
 🌱&nbsp; I'm learning Java while honing my front end skills<br>
 🎓&nbsp; Currently a spirited pupil at [Codeup](https://codeup.com)<br>
-✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: Edward Wong Hau Pepelu Tivruski IV<br>
+✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: Edward Wong Hau Pepelu Tivruski IV<br> 
 
 ## Some of my Github stats
 
@@ -22,9 +22,9 @@ I'm Adrian! A Veteran, Business Student and all-around enthusiast for self-impro
 
 ## My skills
 <p align="left">
-  <img alt="Git" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img alt="HTML5" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img alt="CSS3" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img alt="Bootstrap" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-  <img alt="JavaScript" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <code><img alt="Git" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+  <code><img alt="HTML5" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+  <code><img alt="CSS3" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+  <code><img alt="Bootstrap" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></code>
+  <code><img alt="JavaScript" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 </p>
