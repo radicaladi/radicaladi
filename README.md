@@ -27,5 +27,7 @@ I'm Adrian! A Veteran, Business Student and all-around enthusiast for self-impro
   <code><img alt="CSS3" width="60em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
   <code><img alt="Bootstrap" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" /></code>
   <code><img alt="JavaScript" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /></code>
+  <code><img alt="jQuery" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" /></code>
   <code><img alt="Java" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /></code>
+  <code><img alt="MySQL" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
 </p>
