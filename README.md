@@ -16,7 +16,7 @@ I'm Adrian! A Veteran, Business Student and all-around enthusiast for self-impro
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicaladi&layout=compact&theme=dark&langs_count=4" />
 </a>
 <a href="https://github.com/radicaladi">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=radicaladi&theme=dark&layout=compact&repo=convoychat&hide=stars,prs&custom_title=Adrian's GitHub Stats" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=radicaladi&theme=dark&layout=compact&repo=convoychat&hide=stars,issues&custom_title=Adrian's GitHub Stats" />
 </a>
 </p><br>
 
