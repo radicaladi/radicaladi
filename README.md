@@ -2,7 +2,7 @@
 
 I'm Adrian! A Veteran, Business Student and all-around enthusiast for self-improvement on this road called life. Recently transitioned into Software Development, as an abstract thinker and creative problem-solver, whether front-end or back-end, I look forward to completing the challenge.
 
-🌱&nbsp; I'm learning Java while honing my front end skills<br>
+🌱&nbsp; I'm learning Java and databases while honing my front end skills<br>
 🎓&nbsp; Currently a spirited pupil at [Codeup](https://codeup.com)<br>
 ✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: Edward Wong Hau Pepelu Tivruski IV<br> 
 
