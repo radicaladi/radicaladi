@@ -1,10 +1,12 @@
 # How's it going? &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img alt="smiley" width="40em" src="https://i.imgur.com/q2UfNOW.png"/>
 
-I'm Adrian! A Veteran, Business Student, developer in training and all-around self-improvement enthusiast. Recently transitioned into Software Development, as an abstract thinker and creative problem-solver, whether front-end or back-end, I look forward to completing the challenge.
+I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of simplicity and honest self-expression. As an abstract thinker and creative problem-solver, I look forward to completing the challenge end-to-end. 
 
-🌱&nbsp; I'm learning Java and databases while honing my front end skills<br>
+This is a gallery of the code I write from novice to adept.
+
+🌱&nbsp; I'm learning Spring Framework while honing my knowledge base<br>
 🎓&nbsp; Currently a spirited pupil at [Codeup](https://codeup.com)<br>
-✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: Edward Wong Hau Pepelu Tivruski IV<br> 
+✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: [Edward Wong Hau Pepelu Tivruski IV](https://cowboybebop.fandom.com/wiki/Edward)<br> 
 
 ## Some of my Github stats
 
@@ -20,7 +22,7 @@ I'm Adrian! A Veteran, Business Student, developer in training and all-around se
 </a>
 </p><br>
 
-## My skills
+## Knowledge base
 <p align="left">
   <code><img alt="Git" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /></code>
   <code><img alt="HTML5" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
