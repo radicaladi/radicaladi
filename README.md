@@ -8,6 +8,12 @@ This is a gallery of the code I write from novice to adept.
 🎓&nbsp; Currently a spirited pupil at [Codeup](https://codeup.com)<br>
 ✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: [Edward Wong Hau Pepelu Tivruski IV](https://cowboybebop.fandom.com/wiki/Edward)<br> 
 
+<p align="center">
+  <a href="adrian-brown-b84b63127">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 ## Some of my Github stats
 
 <p align="center">
