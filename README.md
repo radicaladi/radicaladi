@@ -18,6 +18,9 @@ This is a gallery of the code I write from novice to adept.
 ## Some of my Github stats
 
 <p align="center">
+   <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=radicaladi&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
+ </p>
+<p align="center">
 <a href="https://github.com/radicaladi">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicaladi&layout=compact&theme=dark&langs_count=4" />
 </a>
