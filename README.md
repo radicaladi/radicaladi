@@ -4,6 +4,7 @@ I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of 
 
 This is a gallery of the code I write from novice to adept.
 
+🔭&nbsp; Working on my capstone with Codeup!<br>
 🌱&nbsp; I'm learning Spring Framework while honing my knowledge base<br>
 🎓&nbsp; Currently a spirited pupil at [Codeup](https://codeup.com)<br>
 ✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: [Edward Wong Hau Pepelu Tivruski IV](https://cowboybebop.fandom.com/wiki/Edward)<br> 
@@ -27,14 +28,14 @@ This is a gallery of the code I write from novice to adept.
 
 ## Knowledge base
 <p align="left">
-  <code><img alt="Git" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /></code>
-  <code><img alt="HTML5" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
-  <code><img alt="CSS3" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
-  <code><img alt="Bootstrap" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" /></code>
-  <code><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="60" height="60"/></code>
-  <code><img alt="JavaScript" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /></code>
-  <code><img alt="jQuery" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" /></code>
-  <code><img alt="Java" width="60em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /></code>
-  <code><img alt="MySQL" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
-  <code><img alt="Spring" width="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" /></code>
+  <code><img alt="git" width="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /></code>
+  <code><img alt="html5" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
+  <code><img alt="css3" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
+  <code><img alt="bootstrap" width="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" /></code>
+  <code><img alt="jasmine" width="50em" height="50em" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" /></code>
+  <code><img alt="javaScript" width="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /></code>
+  <code><img alt="jquery" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" /></code>
+  <code><img alt="java" width="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /></code>
+  <code><img alt="mysql" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
+  <code><img alt="spring" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" /></code>
 </p>
