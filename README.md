@@ -22,7 +22,7 @@ This is a gallery of the code I write from novice to adept.
  </p>
 <p align="center">
 <a href="https://github.com/radicaladi">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicaladi&layout=compact&theme=dark&langs_count=4" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicaladi&layout=compact&theme=dark&langs_count=6" />
 </a>
 <a href="https://github.com/radicaladi">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=radicaladi&theme=dark&layout=compact&repo=convoychat&hide=stars,issues&custom_title=Adrian's GitHub Stats" />
