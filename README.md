@@ -16,7 +16,7 @@ I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of 
 🎓&nbsp; Currently a spirited pupil at [CodeUp](https://codeup.com)<br>
 ✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: [Edward Wong Hau Pepelu Tivruski IV](https://cowboybebop.fandom.com/wiki/Edward)<br> 
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/adrianrichbrown/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
