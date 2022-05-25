@@ -11,9 +11,9 @@ I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of 
   </a>
 </p> -->
 
-🔭&nbsp; Finished my CodeUp capstone! Check it out: [ProjectHandMeDown](https://projecthandmedown.me)<br>
-🌱&nbsp; I'm learning Spring Framework while honing my knowledge base<br>
-🎓&nbsp; Currently a spirited pupil at [CodeUp](https://codeup.com)<br>
+🔭&nbsp; Finished my CodeUp capstone! Check it out here: [ProjectHandMeDown](https://projecthandmedown.me)<br>
+🌱&nbsp; I'm currently learning NodeJs and the Node Package Manager<br>
+🎓&nbsp; A spirited pupil at [CodeUp](https://codeup.com)<br>
 ✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: [Edward Wong Hau Pepelu Tivruski IV](https://cowboybebop.fandom.com/wiki/Edward)<br> 
 
 <p>
