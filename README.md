@@ -12,14 +12,14 @@ I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of 
 </p> -->
 
 🔭&nbsp; Finished my CodeUp capstone! Check it out here: [ProjectHandMeDown](https://projecthandmedown.me)<br>
-🌱&nbsp; I'm currently learning NodeJs and the Node Package Manager<br>
-🎓&nbsp; A spirited pupil at [CodeUp](https://codeup.com)<br>
+🌱&nbsp; I'm currently learning Node.js, NPM, and Express.js technologies<br>
 ✨&nbsp; <em>Fun fact</em>: My handle is a nod to my childhood inspiration to learn code: [Edward Wong Hau Pepelu Tivruski IV](https://cowboybebop.fandom.com/wiki/Edward)<br> 
 
 <p>
   <a href="https://www.linkedin.com/in/adrianrichbrown/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.hackerrank.com/radicaladi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
 </p>
 
 ## Some of my Github stats
@@ -37,15 +37,15 @@ I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of 
 </p><br>
 
 ## Knowledge base
-<p align="left">
-  <code><img alt="git" width="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /></code>
-  <code><img alt="html5" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
-  <code><img alt="css3" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
-  <code><img alt="bootstrap" width="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" /></code>
-  <code><img alt="jasmine" width="50em" height="50em" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" /></code>
-  <code><img alt="javaScript" width="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" /></code>
-  <code><img alt="jquery" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" /></code>
-  <code><img alt="java" width="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /></code>
-  <code><img alt="mysql" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></code>
-  <code><img alt="spring" width="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" /></code>
+<p align="center">
+  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+  <img alt="jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white"></img>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+  <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></img>
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
+  <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img>
 </p>
