@@ -2,10 +2,6 @@
 
 I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of simplicity and honest self-expression. As an abstract thinker and creative problem-solver, I look forward to completing the challenge end-to-end. 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+a+gallery+of+the+code+I+write;From+novice+to+adept&font=Inter%20Code&center=true&width=550&height=45&color=0f4c81&vCenter=true&size=22&duration=6000"></a>
-</p>
-
 <!-- <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=inter&duration=5750&color=2C9ACB&width=470&lines=&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" />
   </a>
