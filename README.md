@@ -1,6 +1,6 @@
 # How's it going? &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img alt="smiley" width="40em" src="https://i.imgur.com/q2UfNOW.png"/>
 
-I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of simplicity and honest self-expression. As an abstract thinker and creative problem-solver, I look forward to completing the challenge end-to-end. 
+I'm Adrian! Formerly soldiering and now engineering software with a passion for the beauty of simplicity and honest self-expression. As an abstract thinker and creative problem-solver, I look forward to completing the challenge end-to-end. 
 
 <!-- <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=inter&duration=5750&color=2C9ACB&width=470&lines=&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" />
