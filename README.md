@@ -22,15 +22,12 @@ I'm Adrian! A Veteran and Full Stack Developer with a passion for the beauty of 
 
 <p align="center">
    <img height="145em"align="center" src="http://github-readme-streak-stats.herokuapp.com?user=radicaladi&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD5B28" />
- </p>
-<p align="center">
-  <a href="https://github.com/radicaladi">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=radicaladi&theme=dark&layout=compact&repo=convoychat&hide=stars,issues&custom_title=Adrian's GitHub Stats" />
-</a>
-<a href="https://github.com/radicaladi">
+   <a href="https://github.com/radicaladi">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicaladi&layout=compact&theme=dark&langs_count=6" />
-</a>
-</p><br>
+  </a>
+</p>
+
+<br>
 
 ## Knowledge base
 <p align="center">
